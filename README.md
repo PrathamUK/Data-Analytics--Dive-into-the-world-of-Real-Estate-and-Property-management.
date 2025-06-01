@@ -28,18 +28,18 @@ A sleek and interactive Power BI dashboard that visualizes apartment listings ba
      -Git & GitHub: To store the .pbix file and Power Query .mq scripts
 
 ## User Interface
-Dashboard Overview 1:
+
   ![Dashboard Overview](https://github.com/user-attachments/assets/861240ba-efbc-4e6e-8284-f8a88572ae86)
 
-Dashboard Overview 2:
+
   ![Dashboard Overview 2](https://github.com/user-attachments/assets/2480cc3d-4538-40a8-aa70-9f8d96fcd5f9)
 
-Model View:
+
   ![Model View](https://github.com/user-attachments/assets/a4d23d85-b1b6-48fe-9133-5ec66067c3cd)
 
 ## Installation / Usage
-# clone the repository
-  git clone https://github.com/your-username/real-estate-dashboard.git
+  ## Clone the repository
+   git clone https://github.com/your-username/real-estate-dashboard.git
 
 ## Final Touch
 This project presents a comprehensive Real Estate and Property Management Dashboard built using Power BI. The goal of this dashboard is to enable efficient tracking, analysis, and visualization of key property metrics, including rental income, occupancy rates, lease expirations, and maintenance activities. It helps property managers and stakeholders make data-driven decisions, optimize operations, and monitor the financial performance of their assets.
@@ -47,6 +47,7 @@ This project presents a comprehensive Real Estate and Property Management Dashbo
 The data was pre-processed and transformed using Power Query Editor, with critical calculations performed using DAX. The dashboard includes intuitive slicers, interactive visuals, KPIs, and charts to ensure ease of navigation and actionable insights.
 
 Thank you for exploring my project! 😊
+
 Feel free to ⭐️ the repository or connect with me for feedback or collaboration.
 
     
