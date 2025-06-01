@@ -37,8 +37,8 @@ A sleek and interactive Power BI dashboard that visualizes apartment listings ba
 
   ![Model View](https://github.com/user-attachments/assets/a4d23d85-b1b6-48fe-9133-5ec66067c3cd)
 
-## Installation / Usage
-  ## Clone the repository
+
+## Clone the repository
    git clone https://github.com/your-username/real-estate-dashboard.git
 
 ## Final Touch
